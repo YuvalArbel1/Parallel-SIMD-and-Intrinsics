@@ -1,6 +1,3 @@
-/*315112870 Mor Hanania
-206945107 Yuval Arbel*/
-
 #include <immintrin.h>
 #include <string.h>
 #include "libstr.h"
