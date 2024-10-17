@@ -1,5 +1,3 @@
-#315112870 Mor Hanania 206945107 Yuval Arbel
-
 .intel_syntax noprefix
 
 
