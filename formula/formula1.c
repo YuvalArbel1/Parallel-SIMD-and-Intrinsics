@@ -1,6 +1,3 @@
-/*315112870 Mor Hanania
-206945107 Yuval Arbel*/
-
 #ifndef FORMULA1
 #define FORMULA1
 #include <stdio.h>
