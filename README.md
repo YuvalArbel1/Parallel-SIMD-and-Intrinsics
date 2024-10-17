@@ -83,7 +83,7 @@ To install and run the program you use [Git](https://git-scm.com). From your com
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/Parallel-SIMD-and-Intrinsics
+$ git clone https://github.com/YuvalArbel1/Parallel-SIMD-and-Intrinsics.git
 
 # Navigate to the repository directory:
 $ cd Parallel-SIMD-and-Intrinsics
